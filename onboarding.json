@@ -1,0 +1,85 @@
+{
+  "OnboardingSlides": [
+    {
+      "primaryText": "\"Welcome yo Yogaglo\"",
+      "secondaryText": "\"Unlimited Yoga\"",
+      "order": 0
+    },
+    {
+      "primaryText": "\"Try our programs\"",
+      "secondaryText": "\"Track your progress\"",
+      "order": 1
+    },
+    {
+      "primaryText": "\"Thousands of classes\"",
+      "secondaryText": "\"Take as many as you want when you sign up. All levels welcome.\"",
+      "primaryCTA": {
+        "buttonTitle": "\"Start 14 day free trial\"",
+        "onboardingStyle": "\"OnboardingSlidePrimary\""
+      },
+      "secondaryCTA": {
+        "buttonTitle": "\"I'd like to preview first\"",
+        "onboardingStyle": "\"OnboardingSlideSecondary\""
+      },
+      "order": 2
+    }
+  ],
+  "RegistrationPage": {
+    "title": "\"Create Your Account\""
+  },
+  "SalesPage": {
+    "headerText": "\"Start your 14 day free trial\"",
+    "primaryCTA": {
+      "buttonTitle": "\"Start 14 day free trial\"",
+      "buttonStyle": "\"RegistrationPagePrimary\""
+    },
+    "secondaryCTA": {
+      "buttonTitle": "\"I'd like to preview first\"",
+      "actionType": "\"preview\"",
+      "buttonStyle": "\"RegistrationPageSecondary\""
+    },
+    "bulletTexts": [
+      {
+        "text": "\"Unlimited Access to thousands of classes with world-class teachers\"",
+        "higlightedText": "\"thousands of classes\"",
+        "order": 0
+      },
+      {
+        "text": "\"Ability to enroll in YogaGlo Programs\"",
+        "higlightedText": "\"YogaGlo Programs\"",
+        "order": 1
+      },
+      {
+        "text": "\"Your card will not be charged now, cancel anytime.\"",
+        "higlightedText": "\"cancel anytime\"",
+        "order": 2
+      }
+    ]
+  },
+  "OnboardingBanner": {
+    "title": "\"Start your 14 day free trial\"",
+    "cta": {
+      "buttonTitle": "\"Sign up\"",
+      "buttonStyle": "\"banner\""
+    },
+    "defaultColor": {
+      "red": 45,
+      "green": 200,
+      "blue": 88
+    }
+  },
+  "MorePage": {
+    "primaryCTA": {
+      "buttonTitle": "\"Start 14 day free trial\"",
+      "buttonStyle": "\"RegistrationPagePrimary\""
+    },
+    "secondaryCTA": {
+      "buttonTitle": "\"Have an account? Login\""
+    }
+  },
+  "RecommednationsPage": {
+    "cta": {
+      "buttonTitle": "\"Start 14 day free trial\""
+    }
+  }
+}
